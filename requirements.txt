@@ -1,0 +1,2 @@
+# requirements.txt
+# Will add dependencies during the process
