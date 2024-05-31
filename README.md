@@ -1,7 +1,9 @@
 # To-Do List Application
-
 A simple to-do list application built with Python and Tkinter.
 
+## Requirements
+- Python 3.x
+  
 ## Features
 
 - Add tasks
